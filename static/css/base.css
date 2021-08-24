@@ -1,6 +1,12 @@
+/* font face for the logo */
 @font-face {
     font-family: "KG I And Love And You Font";
     src: url("../Font/KgIAndLoveAndYou-XMR9.ttf") format("truetype");
+}
+/* font face for the logo subtitle */
+@font-face {
+    font-family: "Sweetheart Font";
+    src: url("../Font/Sweetheart-owp3d.otf") format("truetype"); 
 }
 
 
@@ -9,17 +15,22 @@ html {
 }
 
 body {
-    background: url('/media/bride-1.jpg') no-repeat center center fixed;
+    background: url('/media/bride-8.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555;
     font-family: 'Prata';
 }
 
+/* Logo title */
 h1 {
     font-family: 'KG I And Love And You Font';  
 }
-
+/* Logo subtitle */
+h5 {
+    font-family: 'Sweetheart Font';
+    color:goldenrod;
+}
 
 /* from Bulma */
 .icon {
@@ -40,13 +51,13 @@ h1 {
 
 .shop-now-button {
     background: black;
-    color: #daa520;
+    color: goldenrod;
     min-width: 260px;
 }
 
 .btn-black {
     background: black;
-    color: #daa520;
+    color: #daa520;  
 }
 
 .shop-now-button:hover,
@@ -56,7 +67,7 @@ h1 {
 .btn-black:active,
 .btn-black:focus {
     background: #222;
-    color: #daa520;
+    color: goldenrod;
 }
 
 .text-black {
@@ -66,7 +77,12 @@ h1 {
 .border-black {
     border: 1px solid black !important;
 }
-
+ /* for logo font free delivery */
+.bg-black {
+    color:goldenrod; 
+    background: #000 !important;
+    
+}
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
