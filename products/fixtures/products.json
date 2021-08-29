@@ -23,7 +23,7 @@
       "price": 730.99,
       "category": 1,
       "rating": 4.5,
-      "image_url": " https://pixabay.com/sv/photos/kvinna-brud-br%c3%b6llop-kl%c3%a4nning-mode-6106966/",
+      "image_url": "https://pixabay.com/sv/photos/kvinna-brud-br%c3%b6llop-kl%c3%a4nning-mode-6106966/",
       "image": "DR01.jpg"
     }
   },
@@ -61,7 +61,7 @@
     "fields": {
       "sku": "BB4001",
       "name": "Theia simply style wedding dress",
-      "description": " We’ve long admired Theia’s modern bridal style, and this striking gradient dress remains one of our all-time favorites from the designer. Inspired by Japanese cherry blossoms, intricate laser cut petals are hand-appliqued to airy tulle, then finished with glass beads for organic movement and subtle sparkle.",
+      "description": "We’ve long admired Theia’s modern bridal style, and this striking gradient dress remains one of our all-time favorites from the designer. Inspired by Japanese cherry blossoms, intricate laser cut petals are hand-appliqued to airy tulle, then finished with glass beads for organic movement and subtle sparkle.",
       "price": 632.99,
       "category": 4,
       "rating": 3.5,
@@ -117,7 +117,7 @@
     "fields": {
       "sku": "BB02005",
       "name": "Victoria Steel shoes",
-      "description": " Take a bold step into bridal style with these chic high-heeled boots, made from white lace.",
+      "description": "Take a bold step into bridal style with these chic high-heeled boots, made from white lace.",
       "price": 545.99,
       "category": 2,
       "rating": 4.7,
@@ -205,7 +205,7 @@
       "price": 348.99,
       "category": 2,
       "rating": 4.8,
-      "image_url": " https://pixabay.com/sv/photos/sko-h%c3%b6g-klack-br%c3%b6llopsskor-1813569/",
+      "image_url": "https://pixabay.com/sv/photos/sko-h%c3%b6g-klack-br%c3%b6llopsskor-1813569/",
       "image": "SH08.jpg"
     }
   },
@@ -593,7 +593,7 @@
     "fields": {
       "sku": "BB02011",
       "name": "Freja Bella shoes",
-      "description": " From luxe London designer Freya Bella, these classic peep toe shoes are wrapped in soft satin, then dazzlingly embellished with a mother of pearl heel.",
+      "description": "From luxe London designer Freya Bella, these classic peep toe shoes are wrapped in soft satin, then dazzlingly embellished with a mother of pearl heel.",
       "price": 365.99,
       "category": 2,
       "rating": 4,
