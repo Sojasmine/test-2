@@ -3,21 +3,21 @@
     "pk": 1,
     "model": "products.product",
     "fields": {
-      "sku": " BB02001",
+      "sku": "BB3026",
       "name": "Aventura Chunky shoes",
       "description": "Elegant wedding shoes with silky touch.",
       "price": 120,
       "category": 2,
       "rating": 5,
       "image_url": "https://pixabay.com/sv/photos/par-mode-sko-elegant-3103481/",
-      "image": "SHO1.jpg"
+      "image": "SH01.jpg"
     }
   },
   {
     "pk": 2,
     "model": "products.product",
     "fields": {
-      "sku": " BB01001",
+      "sku": "BB01001",
       "name": "Liz  &  Babi Inez wedding dress ",
       "description": "Intricate floral appliques add romantic dimension to this embellished tulle midi dress. A sweetheart neckline tops of the structured, strapless bodice, white a swingy skirt creates soft movement",
       "price": 730.99,
@@ -31,7 +31,7 @@
     "pk": 3,
     "model": "products.product",
     "fields": {
-      "sku": " BB02002",
+      "sku": "BB02002",
       "name": "Royal Celine shoes",
       "description": "From luxe London designer Freya Rose, these satin heels are intricately embellished with crystals above the slim stiletto wedding shoes.",
       "price": 205.99,
