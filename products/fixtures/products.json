@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "pk": 1,
     "model": "products.product",
@@ -315,7 +315,7 @@
       "name": "Lucy Hope dress",
       "description": "A-line 7 Princess V-neck homecoming Dress with beading sequins",
       "price": 629.99,
-      "category": 9,
+      "category": 3,
       "rating": 4.8,
       "image_url": "https://pixabay.com/sv/photos/br%c3%b6llop-brud-brudgum-kl%c3%a4nning-3145509/",
       "image": "DR12.jpg"
